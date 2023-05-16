@@ -1,0 +1,22 @@
+{
+  "name": "package-haseeb",
+  "version": "1.0.0",
+  "description": "haseeb",
+  "main": "index.css",
+  "scripts": {
+    "test": "haseeb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhaseeb-hub/cubivue-style-test.git"
+  },
+  "keywords": [
+    "haseeb"
+  ],
+  "author": "haseeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulhaseeb-hub/cubivue-style-test/issues"
+  },
+  "homepage": "https://github.com/abdulhaseeb-hub/cubivue-style-test#readme"
+}
